@@ -29,17 +29,7 @@ I'm a 20-year-old passionate **Frontend Developer** with a deep love for buildin
 **Development Practices:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Code Review](https://img.shields.io/badge/Code_Review-<HEX COLOR>?style=for-the-badge) <!-- Можно использовать кастомный цвет -->
+![Code Review](https://img.shields.io/badge/Code_Review-<HEX COLOR>?style=for-the-badge) 
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
-  </a>
-</p>
-
----
