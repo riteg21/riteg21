@@ -3,7 +3,7 @@
 I'm a 20-year-old passionate **Frontend Developer** with a deep love for building modern, performant, and user-centric web applications. My focus is on creating seamless, interactive experiences using the latest technologies in the React ecosystem. I thrive on turning complex problems into elegant, efficient, and scalable code.
 
 -   **🚀 Core Stack:** React, Next.js, TypeScript, Tailwind CSS
--   **🌱 Currently Exploring:** Advanced state management patterns, performance optimization, and backend integration.
+-   **🌱 Currently Exploring:** Advanced state management patterns, performance optimization.
 -   **🎯 Goal:** To join a innovative team where I can contribute to impactful projects, grow as an engineer, and master the art of frontend development.
 
 ### 🛠️ Tech Stack & Tools
